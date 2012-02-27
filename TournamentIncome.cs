@@ -33,7 +33,7 @@ namespace OOP_AustralianCricket
             }
         }
 
-        private string _chautest;
+        private string _chautest1;
         #endregion 
 
         #region constructor
