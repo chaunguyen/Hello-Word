@@ -1,0 +1,6 @@
+c:\documents and settings\tvo\my documents\visual studio 2010\Projects\OOP_AustralianCricket\OOP_AustralianCricket\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Working\Training\QA_Programming\OOP_AustralianCricket\OOP_AustralianCricket\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Working\Training\QA_Programming\OOP_AustralianCricket\OOP_AustralianCricket\bin\Debug\OOP_AustralianCricket.exe
+D:\Working\Training\QA_Programming\OOP_AustralianCricket\OOP_AustralianCricket\bin\Debug\OOP_AustralianCricket.pdb
+D:\Working\Training\QA_Programming\OOP_AustralianCricket\OOP_AustralianCricket\obj\x86\Debug\OOP_AustralianCricket.exe
+D:\Working\Training\QA_Programming\OOP_AustralianCricket\OOP_AustralianCricket\obj\x86\Debug\OOP_AustralianCricket.pdb
